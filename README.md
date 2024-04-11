@@ -95,7 +95,7 @@ Special thanks to the developers and contributors of these projects for their va
 
 ## License
 
-The MovieHub project is licensed under the [MIT License.](https://choosealicense.com/licenses/mit/)
+The project-name is licensed under the [MIT License.](https://choosealicense.com/licenses/mit/)
 ## Contact
 
 If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at:
