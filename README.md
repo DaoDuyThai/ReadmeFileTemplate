@@ -1,4 +1,4 @@
-# Title
+# Project-name
 
 Project-name is a ... built using .... This repository contains the source code and necessary files to run the project-name application.
 
@@ -98,8 +98,7 @@ Special thanks to the developers and contributors of these projects for their va
 The MovieHub project is licensed under the [MIT License.](https://choosealicense.com/licenses/mit/)
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at daoduythai.business@gmail.com.
-
+If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at:
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daoduythai.business@gmail.com)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://codewithdt.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dduythai/)
