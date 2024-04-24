@@ -54,6 +54,7 @@ Follow the steps below to set up the project:
 
     ```bash    
     ```
+    
 ## Contributing
 
 Contributions to project-name are always welcome. If you would like to contribute, please follow these steps:
@@ -80,6 +81,7 @@ Contributions to project-name are always welcome. If you would like to contribut
 5. **Open a pull request and provide a detailed description of your changes.**
 
 Please make sure to adhere to the code style and conventions used in the project.
+
 ## Acknowledgements
 
 Project-name makes use of the following open-source libraries and APIs:
@@ -96,6 +98,7 @@ Special thanks to the developers and contributors of these projects for their va
 ## License
 
 The project-name is licensed under the [MIT License.](https://choosealicense.com/licenses/mit/)
+
 ## Contact
 
 If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at:
